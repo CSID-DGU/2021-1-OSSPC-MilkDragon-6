@@ -2,7 +2,11 @@ from src.setting import *
 
 
 class Ground:
+<<<<<<< Updated upstream
     def __init__(self, speed=-5):
+=======
+    def __init__(self, speed=0):
+>>>>>>> Stashed changes
         self.image, self.rect = load_image('ground.png', -1, -1, -1)
         self.image1, self.rect1 = load_image('ground.png', -1, -1, -1)
         self.rect.bottom = height
@@ -78,7 +82,11 @@ class HeartIndicator:
         # self.life_set = [Heart(self.heart_size, self.heart_size, width * 0.01 + i * self.heart_size) for i in range(self.life)]
         self.life_set = [Heart(object_size[0], object_size[1], width * 0.01 + i * object_size[0]) for i in range(self.life)]
 
+<<<<<<< Updated upstream
 
+=======
+## 인게임내 실시간 점수판 ##
+>>>>>>> Stashed changes
 class Scoreboard:
 
     def __init__(self, x=-1, y=-1):

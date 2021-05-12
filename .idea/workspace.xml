@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd4047ab-6ce6-4d2f-9c7a-f39e0f7580a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DungGeunMo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/score.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/gameplay_1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/gameplay_2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/introscreen.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/btn_bgm_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/btn_bgm_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/btn_board.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/btn_credit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/btn_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/cacti-big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/cacti-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/call_out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/checkPoint.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/continue_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/credit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/die.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/dino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/dino_ducking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/dino_older.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/fire_cacti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/fire_cacti11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/fire_cacti2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/fire_cacti6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/full_screen_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/full_screen_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/game_over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/introscreenBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/jump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/main_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/numbers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/offline-sprite-2x-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/pause_pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/paused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/ptera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/ranking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/replay_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/scorereset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/slow_pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/t-rex_bgm1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/t-rex_bgm2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites/t-rex_bgm2_15sec.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1s0ELpPKvh54wqDfB2pwuSmA46n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SU JEONG\Documents\OSSP_GitHub\2021-1-OSSPC-MilkDragon-6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2021-1-OSSPC-MilkDragon-6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd4047ab-6ce6-4d2f-9c7a-f39e0f7580a7" name="Default Changelist" comment="" />
+      <created>1620001053674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620001053674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

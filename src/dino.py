@@ -16,6 +16,10 @@ class Dino():
         self.isDucking = False
         self.isBlinking = False
         self.movement = [0, 0]
+<<<<<<< Updated upstream
+=======
+        ##self.x_speed = 5
+>>>>>>> Stashed changes
         self.jumpSpeed = 11.5
         self.superJumpSpeed = self.jumpSpeed * 1.3
         self.collision_immune = False
