@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 __author__ = "Shivam Shekhar"
 made_by = "OldKokiri-6"
 
@@ -13,4 +14,21 @@ def main():
 
 
 if __name__ == "__main__":
+=======
+__author__ = "Shivam Shekhar"
+made_by = "OldKokiri-6"
+
+
+from src.game import *
+
+
+def main():
+    db.init_db()
+    isGameQuit = introscreen()
+    if not isGameQuit:
+        introscreen()
+
+
+if __name__ == "__main__":
+>>>>>>> Stashed changes
     main()
